@@ -7,7 +7,7 @@ Projekt zakłada powrót do intuicyjnej obsługi, która nie odrywa uwagi kierow
 
 ## Zakres Projektu
 W ramach projektu zaprojektowane zostaną następujące elementy:
-1. **Zegary (Instrument Cluster):** Klasyczne, czytelne wskaźniki z niezbędnymi informacjami.
+1. **Zegary:** Klasyczne, czytelne wskaźniki z niezbędnymi informacjami.
 2. **Kierownica i dźwignie:** Ergonomiczne rozmieszczenie najważniejszych przełączników z wyraźnym skokiem.
 3. **Konsola centralna:** Fizyczne panele sterowania dla kluczowych funkcji (klimatyzacja, radio).
 4. **Ekran multimedialny:** Ekran o celowo zredukowanych wymiarach, pełniący funkcję pomocniczą (np. nawigacja), a nie główną.
